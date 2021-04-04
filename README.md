@@ -11,6 +11,12 @@ black rot disease in apple, powdery mildew disease in
 cherry, common rust disease in corn, leaf blight disease in
 grapes, etc.
 
+Usefulness of deep convolutional neural networks is
+used for our classification. When talk about deep neural
+networks the first thing that comes to our mind is the convolutional
+neural networks. I focused on VGG16 and
+ResNet50 architectures in this project.
+
 ### Dataset
 
 Dataset contains both healthy and diseased plant
